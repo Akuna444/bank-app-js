@@ -7,6 +7,8 @@
 /////////////////////////////////////////////////
 // Data
 
+alert("Accounts to log in:- username: js : password: 1111 and username: jd : password:2222")
+
 // DIFFERENT DATA! Contains movement dates, currency and locale
 
 const account1 = {
